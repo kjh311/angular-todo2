@@ -27,10 +27,12 @@ body {
 	line-height: 1.4em;
 
 	color: #4d4d4d;
-	min-width: 230px;
-	/*width: 90%;*/
+	/*min-width: 230px;*/
+	/*width: 100%;*/
+	margin-right: 5% !important;
+	margin-left: 5% !important;
 	/*max-width: 550px;*/
-	margin: 0 auto;
+	/*margin: 0 auto;*/
 	-webkit-font-smoothing: antialiased;
 	-moz-font-smoothing: antialiased;
 	font-smoothing: antialiased;
